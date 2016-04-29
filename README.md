@@ -16,4 +16,4 @@
     cell.velocityRange = 50;
     cell.emissionRange = M_PI*6;
     emitter.emitterCells = @[cell];
- ####微博 [CSaT_Sun_Tony](http://weibo.com/5499355621/profile?rightmod=1&wvr=6&mod=personinfo)
+####[CSaT_Sun_Tony](http://weibo.com/5499355621/profile?rightmod=1&wvr=6&mod=personinfo)
